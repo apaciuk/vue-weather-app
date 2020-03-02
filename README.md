@@ -6,7 +6,11 @@ Paul Anthony McGowan
 
 # Demo
 
+https://admiring-ramanujan-23df3f.netlify.com/
+
 # Repo
+
+https://github.com/xhostcom/vue-weather-app.git
 
 ## Project setup
 ```
